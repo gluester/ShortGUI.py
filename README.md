@@ -9,4 +9,15 @@ ShortGUI.py is a Python module that uses Tkinter's GUI managment, but simplifies
 - Booyah.
 
 
-**EG3K**
+
+***Some feautres don't work.***
+
+*This is not done!*
+
+
+
+# Thanks To...
+The Python Discord community! This would've been harder without them.
+**https://www.pythondiscord.com**
+
+**- EG3K**
