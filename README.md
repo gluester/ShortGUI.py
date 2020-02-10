@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3219920c580044fd8b25c735b6a4c05d)](https://www.codacy.com/manual/gluester/ShortGUI.py?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gluester/ShortGUI.py&amp;utm_campaign=Badge_Grade)
+
 # ShortGUI.py
 ShortGUI.py is a Python module that uses Tkinter's GUI managment, but simplifies it! https://docs.python.org/3/library/tk.html &lt;HEAVY W.I.P>
 
